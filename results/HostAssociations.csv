@@ -1,0 +1,74 @@
+Host 1,Host 2,Factor,P-value,Difference
+Mycobacterium smegmatis mc¬≤155,Gordonia terrae 3612,GHI,7.364050599261282e-25,11.742099723633572
+Mycobacterium smegmatis mc¬≤155,Gordonia terrae 3612,Population Density,8.363740859664026e-12,-4073.163879935536
+Mycobacterium smegmatis mc¬≤155,Gordonia terrae 3612,Albedo,5.385397963902558e-06,-0.01951223425195242
+Mycobacterium smegmatis mc¬≤155,Gordonia terrae 3612,Genome Length(bp),6.86673462557735e-06,7466.9147358432165
+Mycobacterium smegmatis mc¬≤155,Microbacterium foliorum NRRL B-24224,GC%,1.0478880946180286e-07,-0.9410064839376417
+Mycobacterium smegmatis mc¬≤155,Microbacterium foliorum NRRL B-24224,Genome Length(bp),1.0981055170618642e-43,26242.537879457712
+Mycobacterium smegmatis mc¬≤155,Arthrobacter sp.  ATCC 21022,GHI,0.0007718332456875826,4.782138005979306
+Mycobacterium smegmatis mc¬≤155,Arthrobacter sp.  ATCC 21022,GC%,1.1211306016241228e-117,5.78203675634694
+Mycobacterium smegmatis mc¬≤155,Arthrobacter sp.  ATCC 21022,Genome Length(bp),1.6227817932235024e-26,22470.71248263232
+Mycobacterium smegmatis mc¬≤155,Streptomyces griseus ATCC 10137,GHI,1.7917111786513828e-22,-20.71519762170567
+Mycobacterium smegmatis mc¬≤155,Streptomyces griseus ATCC 10137,Dew Point,2.1100530100792085e-13,-3.149864852839194
+Mycobacterium smegmatis mc¬≤155,Streptomyces griseus ATCC 10137,Albedo,2.48742097828036e-05,0.03282437593867027
+Mycobacterium smegmatis mc¬≤155,Streptomyces griseus ATCC 10137,GC%,3.727261523673106e-36,4.310944055943914
+Mycobacterium smegmatis mc¬≤155,Arthrobacter globiformis B-2979,GC%,7.633139789632821e-08,1.8196761133602024
+Mycobacterium smegmatis mc¬≤155,Arthrobacter globiformis B-2979,Genome Length(bp),1.1220592437011837e-06,16652.785661268565
+Mycobacterium smegmatis mc¬≤155,Gordonia rubripertincta NRRL B-16540,GC%,1.294026431793727e-25,4.755641025640905
+Mycobacterium smegmatis mc¬≤155,Rhodococcus erythropolis RIA 643,GC%,2.987434876183856e-48,7.029660633484035
+Gordonia terrae 3612,Microbacterium foliorum NRRL B-24224,GHI,3.7678585555947654e-11,-8.42296882294346
+Gordonia terrae 3612,Microbacterium foliorum NRRL B-24224,Population Density,2.2580402282917913e-10,4291.591503267974
+Gordonia terrae 3612,Microbacterium foliorum NRRL B-24224,Dew Point,0.0009008801375592799,-0.9149591064734306
+Gordonia terrae 3612,Microbacterium foliorum NRRL B-24224,Albedo,0.00013602835586387754,0.018464453086645516
+Gordonia terrae 3612,Microbacterium foliorum NRRL B-24224,GC%,7.422994122042191e-05,-1.3709425750367288
+Gordonia terrae 3612,Microbacterium foliorum NRRL B-24224,Genome Length(bp),3.841355141540441e-34,18775.623143614495
+Gordonia terrae 3612,Arthrobacter sp.  ATCC 21022,AQI,7.723011019406703e-06,-4.594664931685095
+Gordonia terrae 3612,Arthrobacter sp.  ATCC 21022,GHI,5.198000935111473e-08,-6.9599617176542665
+Gordonia terrae 3612,Arthrobacter sp.  ATCC 21022,Population Density,2.7544538516845025e-11,4811.091932773109
+Gordonia terrae 3612,Arthrobacter sp.  ATCC 21022,GC%,2.14514199221461e-27,5.352100665247853
+Gordonia terrae 3612,Arthrobacter sp.  ATCC 21022,Genome Length(bp),1.0000534611737095e-20,15003.797746789103
+Gordonia terrae 3612,Streptomyces griseus ATCC 10137,AQI,5.860349559259368e-07,-5.192366081110386
+Gordonia terrae 3612,Streptomyces griseus ATCC 10137,GHI,1.1261085757755267e-71,-32.45729734533924
+Gordonia terrae 3612,Streptomyces griseus ATCC 10137,Population Density,7.63400294151441e-06,4929.862545018007
+Gordonia terrae 3612,Streptomyces griseus ATCC 10137,Dew Point,1.471454385496958e-25,-3.7931533129037014
+Gordonia terrae 3612,Streptomyces griseus ATCC 10137,Albedo,5.911455171493227e-18,0.05233661019062269
+Gordonia terrae 3612,Streptomyces griseus ATCC 10137,GC%,1.2332686255108688e-08,3.8810079648448266
+Gordonia terrae 3612,Streptomyces griseus ATCC 10137,Genome Length(bp),3.4717361321111516e-07,-14259.53577313925
+Gordonia terrae 3612,Arthrobacter globiformis B-2979,GHI,7.14272675229e-05,-7.765231294876941
+Gordonia terrae 3612,Arthrobacter globiformis B-2979,Genome Length(bp),0.0005191863736261771,9185.870925425348
+Gordonia terrae 3612,Gordonia rubripertincta NRRL B-16540,GHI,2.12222740417884e-06,-11.360063970017762
+Gordonia terrae 3612,Gordonia rubripertincta NRRL B-16540,GC%,7.281983746943268e-07,4.325704934541818
+Gordonia terrae 3612,Rhodococcus erythropolis RIA 643,GC%,1.2793683628531489e-12,6.599724542384948
+Microbacterium foliorum NRRL B-24224,Arthrobacter sp.  ATCC 21022,GC%,1.2024230137614782e-47,6.723043240284582
+Microbacterium foliorum NRRL B-24224,Streptomyces griseus ATCC 10137,GHI,1.833307928239126e-26,-24.034328522395782
+Microbacterium foliorum NRRL B-24224,Streptomyces griseus ATCC 10137,Dew Point,1.216856992252685e-11,-2.878194206430271
+Microbacterium foliorum NRRL B-24224,Streptomyces griseus ATCC 10137,Albedo,8.605597721843292e-07,0.033872157103977174
+Microbacterium foliorum NRRL B-24224,Streptomyces griseus ATCC 10137,GC%,1.8832985560116555e-18,5.251950539881555
+Microbacterium foliorum NRRL B-24224,Streptomyces griseus ATCC 10137,Genome Length(bp),3.369159376032486e-26,-33035.158916753746
+Microbacterium foliorum NRRL B-24224,Arthrobacter globiformis B-2979,Population Density,0.0003015928368773911,-3794.5248766173145
+Microbacterium foliorum NRRL B-24224,Arthrobacter globiformis B-2979,GC%,2.1658616973417328e-07,2.760682597297844
+Microbacterium foliorum NRRL B-24224,Arthrobacter globiformis B-2979,Genome Length(bp),0.0003821535196430302,-9589.752218189147
+Microbacterium foliorum NRRL B-24224,Gordonia rubripertincta NRRL B-16540,GC%,4.8848696250730833e-20,5.696647509578547
+Microbacterium foliorum NRRL B-24224,Gordonia rubripertincta NRRL B-16540,Genome Length(bp),1.2600100875124694e-06,-14607.123563218389
+Microbacterium foliorum NRRL B-24224,Rhodococcus erythropolis RIA 643,GC%,3.0568144467019962e-30,7.9706671174216766
+Microbacterium foliorum NRRL B-24224,Rhodococcus erythropolis RIA 643,Genome Length(bp),2.7963261253106427e-07,-18372.670948839303
+Arthrobacter sp.  ATCC 21022,Streptomyces griseus ATCC 10137,GHI,9.077702219148505e-30,-25.497335627684976
+Arthrobacter sp.  ATCC 21022,Streptomyces griseus ATCC 10137,Dew Point,1.8085680914629278e-20,-3.285580448523282
+Arthrobacter sp.  ATCC 21022,Streptomyces griseus ATCC 10137,Albedo,6.378621063122897e-13,0.043205524439346166
+Arthrobacter sp.  ATCC 21022,Streptomyces griseus ATCC 10137,Genome Length(bp),6.700899757544555e-19,-29263.333519928354
+Arthrobacter sp.  ATCC 21022,Arthrobacter globiformis B-2979,Population Density,0.0004919541320090982,-4314.025306122449
+Arthrobacter sp.  ATCC 21022,Arthrobacter globiformis B-2979,GC%,1.2048814079070475e-06,-3.962360642986738
+Arthrobacter sp.  ATCC 21022,Gordonia rubripertincta NRRL B-16540,Genome Length(bp),0.00022459653354633784,-10835.298166392997
+Arthrobacter sp.  ATCC 21022,Rhodococcus erythropolis RIA 643,Genome Length(bp),5.7155463747236736e-05,-14600.84555201391
+Streptomyces griseus ATCC 10137,Arthrobacter globiformis B-2979,AQI,0.00016153162937591545,6.332090711401058
+Streptomyces griseus ATCC 10137,Arthrobacter globiformis B-2979,GHI,3.579869667651465e-14,24.6920660504623
+Streptomyces griseus ATCC 10137,Arthrobacter globiformis B-2979,Dew Point,8.113392789424552e-15,4.006680656802286
+Streptomyces griseus ATCC 10137,Arthrobacter globiformis B-2979,Albedo,2.2981090335803256e-11,-0.04681776438695795
+Streptomyces griseus ATCC 10137,Arthrobacter globiformis B-2979,Genome Length(bp),1.3981549202469491e-05,23445.4066985646
+Streptomyces griseus ATCC 10137,Gordonia rubripertincta NRRL B-16540,GHI,1.1491570815363461e-09,21.09723337532148
+Streptomyces griseus ATCC 10137,Gordonia rubripertincta NRRL B-16540,Dew Point,1.0766613291117326e-11,3.8249339014853225
+Streptomyces griseus ATCC 10137,Gordonia rubripertincta NRRL B-16540,Albedo,4.535025722662938e-09,-0.036635280533240305
+Streptomyces griseus ATCC 10137,Rhodococcus erythropolis RIA 643,GHI,1.59146968476495e-17,27.864875957468485
+Streptomyces griseus ATCC 10137,Rhodococcus erythropolis RIA 643,Dew Point,2.9304042862252723e-07,3.0299942806598255
+Streptomyces griseus ATCC 10137,Rhodococcus erythropolis RIA 643,Albedo,1.121863378269498e-07,-0.04237912510301084
+Arthrobacter globiformis B-2979,Rhodococcus erythropolis RIA 643,GC%,9.876744475942633e-05,5.209984520123832
